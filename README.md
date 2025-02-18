@@ -134,3 +134,7 @@ CloudFront에는 다음과 같은 기능이 있습니다.
 `환경변수`는 운영 체제 수준에서 설정되는 동적 값입니다. 애플리케이션의 구성 정보, 실행 환경 설정 등을 저장합니다.
 개발, 테스트, 프로덕션 등 다양한 환경에 따라 다르게 설정할 수 있습니다. 애플리케이션 코드를 변경하지 않고 환경에 따라 다른 설정을 적용할 수 있습니다.
 보안 수준이 요구되지 않는 정보를 저장하는 데 주로 사용됩니다.
+
+
+## CDN 최적화 보고서
+- [CDN 최적화 보고서](https://github.com/YeongseoYoon-hanghae/hanghae-bucket-test/blob/main/cdn-optimization-report.md)
