@@ -28,9 +28,9 @@
    ```
 
 2. Git Repository 생성
-3. Amazon S3 세팅 / 참고 : https://sprout-log-68d.notion.site/S3-78342f718c3d48b4bda57a11a00ddbf0
-4. Amazon Cloudfront 세팅 / 참고 : https://sprout-log-68d.notion.site/CloudFront-2c0653cb130f42b2b21078389511cca2
-5. Amazon IAM 세팅 / 참고 : https://sprout-log-68d.notion.site/IAM-87095b5e6ddb4d1990bac9e669cb73f3
+3. Amazon S3 세팅 
+4. Amazon Cloudfront 세팅 
+5. Amazon IAM 세팅
 6. GitHub Actions
    GitHub 저장소 -> Settings > Secrets and variables > Actions -> New repository secret을 클릭해 밑의 내용을 하나 씩 추가
    `AWS_ACCESS_KEY_ID` : AWS IAM 사용자의 액세스 키 ID
